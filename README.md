@@ -4,7 +4,7 @@
 This repository follows the paper with the same name.
 It contains extended version of the results of the experiments on MaMaDroid.
 
-# Results
+## Results
 There are three results' folders - Detection rate, DRR and Model Reliability.
 Each folder depict a different case, which correlates to a different sub-folder: 
 1. Original apps
