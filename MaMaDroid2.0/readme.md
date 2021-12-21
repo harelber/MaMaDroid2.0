@@ -1,4 +1,4 @@
-#MaMaDroid2.0
+###MaMaDroid2.0
 This is the MaMaDroid2.0 implemenation and evaluation.
 The operate_mamadroid2.py runs the scripts that checks:
 1. MaMaDroid2.0 against the StB attacks
