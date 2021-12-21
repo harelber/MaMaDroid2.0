@@ -6,4 +6,4 @@ The operate_mamadroid2.py runs the scripts that checks:
 3. Only permission set models against the StB attacks
 4. MaMaDroid2.0 against the MB attacks
 5. Only permission set models against the MB attacks
-6. Feature importance of MaMaDroid2.0 (DT and RF models)/
+6. Feature importance of MaMaDroid2.0 (DT and RF models)
