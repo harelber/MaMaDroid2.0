@@ -14,3 +14,6 @@ Each folder depict a different case, which correlates to a different sub-folder:
 
 Each sub-folder contains 5 CV of the results of the original models and non-mentioned-in-the-original-paper models. The originals are depicted as _former_algs_CVnumber and the nwe ones only by the CVnumber.
 
+##MaMaDroid2.0
+The attached scripts run the MaMaDroid2.0 detection machine against the StB and MB attacks.
+
