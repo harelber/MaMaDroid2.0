@@ -1,4 +1,4 @@
-# The Black Holes of Markov Chains: MaMaDroid under the looking glass
+# MaMaDroid2.0
 
 
 This repository follows the paper with the same name.
