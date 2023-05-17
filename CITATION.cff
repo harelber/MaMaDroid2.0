@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Berger
+    given-names: Harel
+  - family-names: Dvir
+    given-names: Amit
+  - family-names: Mariconti
+    given-names: Enrico
+  - family-names: Hajaj
+    given-names: Chen
+title: Breaking the structure of MaMaDroid
+journal-title: Expert Systems with Applications
+year: 2023
+page: 120429
+publisher: Elsevier
