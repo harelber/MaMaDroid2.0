@@ -1,7 +1,7 @@
 # MaMaDroid2.0
 
 
-This repository follows the paper with the same name.
+This repository follows the paper "Breaking the Structure of MaMaDroid".
 It contains extended version of the results of the experiments on MaMaDroid.
 
 ## Results
@@ -19,3 +19,15 @@ The attached scripts run the MaMaDroid2.0 detection machine against the StB and 
 
 ## Attack
 The attack folder includes the template for the StB attack.
+
+## Cite
+If you use this code please cite the following paper:
+
+@article{berger2023breaking,
+  title={Breaking the structure of MaMaDroid},
+  author={Berger, Harel and Dvir, Amit and Mariconti, Enrico and Hajaj, Chen},
+  journal={Expert Systems with Applications},
+  pages={120429},
+  year={2023},
+  publisher={Elsevier}
+}
