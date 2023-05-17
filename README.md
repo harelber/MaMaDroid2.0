@@ -19,3 +19,25 @@ The attached scripts run the MaMaDroid2.0 detection machine against the StB and 
 
 ## Attack
 The attack folder includes the template for the StB attack.
+
+## How to Cite
+<details>
+  <summary><strong>Citation</strong></summary>
+  
+  If you use this software, please cite it as:
+  Berger, H., Dvir, A., Mariconti, E., & Hajaj, C. (2023). Breaking the structure of MaMaDroid. Expert Systems with Applications, 120429. Elsevier.
+
+
+BibTeX format:
+
+```bibtex
+@article{berger2023breaking,
+  title={Breaking the structure of MaMaDroid},
+  author={Berger, Harel and Dvir, Amit and Mariconti, Enrico and Hajaj, Chen},
+  journal={Expert Systems with Applications},
+  pages={120429},
+  year={2023},
+  publisher={Elsevier}
+}
+</details>
+```
