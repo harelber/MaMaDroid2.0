@@ -22,7 +22,7 @@ The attack folder includes the template for the StB attack.
 
 ## How to Cite
   
-  If you use this software, please cite it as:
+  If you use this repository, please cite it as:
   Berger, H., Dvir, A., Mariconti, E., & Hajaj, C. (2023). Breaking the structure of MaMaDroid. Expert Systems with Applications, 120429. Elsevier.
 
 
